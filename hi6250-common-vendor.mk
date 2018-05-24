@@ -2959,3 +2959,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-sp-compat/libpng.so:system/lib64/vndk-sp-compat/libpng.so \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-sp-compat/libunwind.so:system/lib64/vndk-sp-compat/libunwind.so \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-sp-compat/libutils.so:system/lib64/vndk-sp-compat/libutils.so
+
+
+PRODUCT_PACKAGES += \
+    HotwordEnrollmentOKGoogleHI6403 \
+    HotwordEnrollmentXGoogleHI6403
