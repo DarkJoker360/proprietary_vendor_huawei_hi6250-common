@@ -2700,6 +2700,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hi6250-common/proprietary/lib/vndk-compat/libgatekeeper.so:system/lib/vndk-compat/libgatekeeper.so \
     vendor/huawei/hi6250-common/proprietary/lib/vndk-compat/libhardware_legacy.so:system/lib/vndk-compat/libhardware_legacy.so \
     vendor/huawei/hi6250-common/proprietary/lib/libhwsmartdisplay_jni.so:system/lib/libhwsmartdisplay_jni.so \
+    vendor/huawei/hi6250-common/proprietary/lib64/libaptXHD_encoder.so:system/lib64/libaptXHD_encoder.so \
+    vendor/huawei/hi6250-common/proprietary/lib64/libaptX_encoder.so:system/lib64/libaptX_encoder.so \
     vendor/huawei/hi6250-common/proprietary/lib/vndk-compat/libjpeg.so:system/lib/vndk-compat/libjpeg.so \
     vendor/huawei/hi6250-common/proprietary/lib/vndk-compat/libkeymaster1.so:system/lib/vndk-compat/libkeymaster1.so \
     vendor/huawei/hi6250-common/proprietary/lib/vndk-compat/libkeymaster_messages.so:system/lib/vndk-compat/libkeymaster_messages.so \
